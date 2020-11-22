@@ -1,5 +1,7 @@
 # market-basket-analysis
 using Apriori algorithm
+MLxtend can be installed using pip(pip install mlxtend)
+
 Support is the relative frequency that the rules show up. In many instances, you may want to look for high support in order to make sure it is a useful relationship.
 However, there may be instances where a low support is useful if you are trying to find “hidden” relationships.
 
